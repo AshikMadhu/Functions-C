@@ -1,7 +1,6 @@
 # 📘 C Programming Practice Repository
 
 A collection of **basic C programming programs** created for learning and practicing core programming concepts.
-This repository focuses on fundamental topics that are commonly taught in **introductory programming courses and lab sessions**.
 
 ---
 
