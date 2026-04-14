@@ -9,7 +9,7 @@ A collection of **basic C programming programs** created for learning and practi
 The programs in this repository are organized into the following categories:
 
 ### 1️⃣ Common Programs
-
+ 
 Basic programs used to understand fundamental programming logic.
 
 Examples include:
